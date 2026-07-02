@@ -1,0 +1,10 @@
+﻿FORMAT==100
+['Year'] = S:IF( ( ELLEV( 'actvsbud', !actvsbud ) = 0 ) & 
+                             ( ELLEV( 'region', !region )            = 0 ) & 
+                             ( ELLEV( 'account1', !account1 )  = 0), 
+                             'CUBE_SalesByQuarter,RELATIONALTABLE_SalesAllModel', 'CUBE_SalesByQuarter' );
+
+[] = S:IF( ISLEAF= 1, 'CUBE_SalesByQuarter,RELATIONALTABLE_SalesAllModel','CUBE_SalesByQuarter' );
+
+
+

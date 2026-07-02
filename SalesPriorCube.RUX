@@ -1,0 +1,9 @@
+﻿FORMAT==100
+skipcheck;
+
+['Dec']=n:1. + ['jan'] + ['feb'];
+
+feeders;
+
+['jan']=>['dec'];
+['feb']=>['dec'];
