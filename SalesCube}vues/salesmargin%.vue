@@ -1,0 +1,127 @@
+﻿389,100
+370,0
+361,1
+362,1
+363,0.
+364,0.
+365,0.
+366,0.
+367,0
+376,0
+375,b:0.00F|2|
+374,3
+7,actvsbud
+270,3
+Variance
+Actual
+Budget
+274,
+275,
+7,region
+270,9
+World
+Europe
+Americas
+North America
+South America
+Argentina
+Brazil
+Chile
+Uruguay
+274,
+275,
+7,model
+270,61
+L Series 1.6 L Convertible
+L Series 1.6 L Sedan
+L Series 1.8 L Convertible
+L Series 1.8 L Sedan
+L Series 1.8 L Wagon
+L Series 1.8 L Wagon 4WD
+L Series 2.0 L Convertible
+L Series 2.0 L Sedan
+L Series 2.0 L Wagon
+L Series 2.0 L Wagon 4WD
+L Series 2.5 L Convertible
+L Series 2.5 L Sedan
+S Series 1.8 L Sedan
+S Series 1.8 L Wagon
+S Series 2.0 L Sedan
+S Series 2.0 L Wagon
+S Series 2.5 L Sedan
+S Series 2.5 L Sedan 4WD
+S Series 2.5 L Wagon
+S Series 2.5 L Wagon 4WD
+S Series 3.0 L Sedan
+S Series 3.0 L Sedan 4WD
+S Series 3.0 L Wagon
+S Series 3.0 L Wagon 4WD
+S Series 3.4 L Sedan
+S Series 3.4 L Sedan 4WD
+S Series 3.4 L Wagon
+S Series 3.4 L Wagon 4WD
+T Series 2.8 L Coupe
+T Series 2.8 L Sedan
+T Series 3.2 L Coupe
+T Series 3.2 L Sedan
+T Series 4.0 L Coupe
+T Series 4.0 L Sedan
+T Series 5.0 L Coupe
+T Series 5.0 L Sedan
+L Series 4WD
+L Series Convertible
+L Series Sedan
+L Series Wagon
+S Series 4WD
+S Series Sedan
+S Series Wagon
+T Series Coupe
+T Series Sedan
+L Series
+S Series
+S Series Sedan
+S Series 1.8 L Sedan
+S Series 2.0 L Sedan
+S Series 2.5 L Sedan
+S Series 3.0 L Sedan
+S Series 3.4 L Sedan
+S Series 2.5 L Sedan 4WD
+S Series 3.0 L Sedan 4WD
+S Series 3.4 L Sedan 4WD
+S Series Wagon
+T Series
+L Series 2WD
+S Series 2WD
+Total
+274,
+275,
+360,1
+7,month
+270,3
+Jan
+Feb
+Mar
+274,
+275,
+371,1
+7,account1
+6,ALL
+274,
+373,3
+2
+6
+49
+372,0
+377,4
+638
+352
+1214
+825
+378,0
+379,4
+0
+0
+0
+0
+11,20020515124429
+381,0
